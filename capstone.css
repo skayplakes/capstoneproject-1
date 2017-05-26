@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+}
+
+.container-banner {
+	width: 50%;
+	border: 5px solid white;
+	padding: 40px;
+	color: white;
+	transform: translate(-50%, -50%); /*for centering the text*/
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	text-align: center;
+}
+
+.navbar-1 {
+	background-color: white;
+}
+
+.navbar-1 a {
+	color: white; /*font color of navbar*/
+}
+
+img {
+	position: relative;
+	left: 150px;
+}
+
+footer {
+	color: grey;
+	position: fixed;
+	bottom: 0;
+	/*background-color: grey;*/
+	width: 100%;
+	left: 0;
+	padding-top: 10px;
+	text-align: center;
+}
+

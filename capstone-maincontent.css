@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+
+}
+
+.social-icon {
+	background-image: url("worldmap-white.png");
+	height: 75vh;
+	background-size: contain;
+	box-sizing: border-box;
+}

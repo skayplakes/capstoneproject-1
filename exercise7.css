@@ -1,0 +1,31 @@
+.carousel-height {
+	height: 500px;
+}
+
+.carousel-image-1 {
+	background: url("slide-1.png");
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	width: 100%;
+}
+
+.carousel-image-2 {
+	background: url("slide-2.png");
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	width: 100%;
+}
+
+.carousel-image-3 {
+	background: url("slide-3.png");
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	width: 100%;
+}
+
+.img-responsive {
+	margin-bottom: 30px;
+}
